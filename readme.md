@@ -1,0 +1,1 @@
+Este es un proyecto realizado para 4Geeks Program. Se realiza un postcard utilizando únicamente HTML y CSS
